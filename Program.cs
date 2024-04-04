@@ -17,15 +17,16 @@ double[] valorB = { 7.00, 6.00, 6.00, 5.00, 3.50 };
 
 //void
 void comprasuco(double soma){
-    Console.WriteLine($"Você gostaria de alguma bebida para acompanhar?");
+    voltaSuco:
+    Console.WriteLine($"Você gostaria de alguma bebida para acompanhar? \n[1] Sim \n[2] Não");
     string bebida = Console.ReadLine();
 
-    if (bebida == "nao")
+    if (bebida == "2")
     {
         Console.WriteLine($"Certo! \n A soma total do seu pedido é de {soma.ToString("c")}");
         return;
     }
-    else
+    else if(bebida == "1")
     {
         repeatvoid:
         Console.WriteLine($"Escolha a opção de bebida desejada: \n{lista[0]} {bebidas[0]} - {valorB[0].ToString("c")}  \n{lista[1]} {bebidas[1]} - {valorB[1].ToString("c")} \n{lista[2]} {bebidas[2]} - {valorB[2].ToString("c")} \n{lista[3]} {bebidas[3]} - {valorB[3].ToString("c")} \n{lista[4]} {bebidas[4]} - {valorB[4].ToString("c")} \n[0] Sair");
@@ -64,6 +65,9 @@ void comprasuco(double soma){
                 Console.WriteLine("Opção selecionada não encontrada! \nEscolha outra bebid4!!");
                 goto repeatvoid;
         }
+    } else{
+        Console.WriteLine("Opção selecionada não encontrada!");
+        goto voltaSuco;
     }
 }
 
