@@ -1,0 +1,14 @@
+C:\Users\juliana.moliveira52\source\repos\lp\bin\Debug\net8.0\lp.exe
+C:\Users\juliana.moliveira52\source\repos\lp\bin\Debug\net8.0\lp.deps.json
+C:\Users\juliana.moliveira52\source\repos\lp\bin\Debug\net8.0\lp.runtimeconfig.json
+C:\Users\juliana.moliveira52\source\repos\lp\bin\Debug\net8.0\lp.dll
+C:\Users\juliana.moliveira52\source\repos\lp\bin\Debug\net8.0\lp.pdb
+C:\Users\juliana.moliveira52\source\repos\lp\obj\Debug\net8.0\lp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juliana.moliveira52\source\repos\lp\obj\Debug\net8.0\lp.AssemblyInfoInputs.cache
+C:\Users\juliana.moliveira52\source\repos\lp\obj\Debug\net8.0\lp.AssemblyInfo.cs
+C:\Users\juliana.moliveira52\source\repos\lp\obj\Debug\net8.0\lp.csproj.CoreCompileInputs.cache
+C:\Users\juliana.moliveira52\source\repos\lp\obj\Debug\net8.0\lp.dll
+C:\Users\juliana.moliveira52\source\repos\lp\obj\Debug\net8.0\refint\lp.dll
+C:\Users\juliana.moliveira52\source\repos\lp\obj\Debug\net8.0\lp.pdb
+C:\Users\juliana.moliveira52\source\repos\lp\obj\Debug\net8.0\lp.genruntimeconfig.cache
+C:\Users\juliana.moliveira52\source\repos\lp\obj\Debug\net8.0\ref\lp.dll
